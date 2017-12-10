@@ -1,0 +1,4 @@
+agarwala  994
+chandy    986
+lamport   977
+ricart    948
